@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -35,3 +36,8 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 ...loading
+=======
+# Product-Dashboard
+
+"SEO & performance were enhanced by using next/head for metadata and next/image for optimized image loading."
+>>>>>>> a416398a9c7c85952bf6c2fcd62ed272a5a4ca3e
